@@ -55,5 +55,5 @@ Propose manpower allocation to reduce abandoned calls.
 Technologies Used: Excel
 
 ## About Me
-I am a B.Tech Computer Science and Engineering student with a passion for data analysis and problem-solving. Currently enrolled in the BSc Data Science and Applications program at IIT Madras, I am constantly looking to expand my knowledge and apply my skills to real-world problems. I have hands-on experience in using data analysis tools such as MySQL, Excel, and Python for solving diverse problems ranging from business analytics to operational improvements.
+I am a B.Tech Computer Science and Engineering student with a passion for data analysis and problem-solving. I am also currently pursuing the BSc Data Science and Applications program at IIT Madras as a dual degree and constantly looking to expand my knowledge to apply my skills on real-world problems. I have hands-on experience in using data analysis tools such as MySQL, Excel, and Python for solving diverse problems ranging from business analytics to operational improvements.
 
